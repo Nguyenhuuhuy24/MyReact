@@ -18,5 +18,5 @@
 
 ##Thực Hành
 1. [ Bài thực hành pros và state ]()
-2. [ Bài thực hành số 1 ]()
+2. [ Bài thực hành số 1 ](https://codesandbox.io/s/baithuchanhso1-5v2oeo)
 3.
