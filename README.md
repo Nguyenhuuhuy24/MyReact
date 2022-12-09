@@ -17,6 +17,6 @@
 
 
 ##Thực Hành
-1. [ Bài thực hành pros và state ](
-2. [ Bài thực hành số 1 ](
+1. [ Bài thực hành pros và state ](https://codepen.io/Nguyenhuuhuy24/pen/VwdROxz)
+2. [ Bài thực hành số 1 ]()
 3.
