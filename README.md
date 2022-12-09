@@ -18,7 +18,7 @@
 
 ##Thực Hành
 1. [ Bài thực hành React và Tạo Component ](https://codesandbox.io/s/baitap-cpz5wd)
-2. [ Bài thực hành pros và state ](https://codepen.io/Nguyenhuuhuy24/pen/VwdROxz)
+2. [ Bài thực hành props và state ](https://codepen.io/Nguyenhuuhuy24/pen/VwdROxz)
 3. [ Bài thực hành số 1 ](https://codesandbox.io/s/bai-thuc-hanh-so-1-y41mf9)
 4. [ Bài thực hành số 2 ]
 5. [ Bài thực hành số 3 ](https://codesandbox.io/s/bai-thuc-hanh-so-3-e4cvyh)
